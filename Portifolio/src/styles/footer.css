@@ -1,0 +1,20 @@
+footer{
+    background: url(/src/img/img-fundo3.png);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: 100%
+
+
+}
+
+#footer_items {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 8% 24px 8%;
+    align-items: center;
+}
+
+#copyright {
+    color: #d603b2;
+    font-weight: 500;
+}

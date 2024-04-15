@@ -1,0 +1,41 @@
+#home {
+    background: url(/src/img/img-fundo2.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100%
+
+}
+.img_fundo {
+    width: 120%;
+    z-index: 1;
+    display: flex;
+    position: relative;
+}
+
+
+.parte_principal {
+    margin-top: 2rem;
+    padding-left: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tittle_principal {
+    font-size: 1.6rem;
+    align-items: center;
+    justify-content: center;
+    
+}
+.historia {
+    margin-top: 100px;
+    font-size: 1.2rem;
+
+}
+
+.perfil {
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
